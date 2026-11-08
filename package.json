@@ -1,0 +1,1 @@
+{"name":"data-analyst","version":"1.0.0","description":"AI data analyst agent powered by Claude (code execution)","type":"module","scripts":{"start":"node analyst.mjs","sample-data":"node make-sample-data.mjs"},"engines":{"node":">=20.12"},"license":"MIT","dependencies":{"@anthropic-ai/sdk":"^1.6.0"}}

@@ -1,0 +1,6 @@
+node_modules/
+.env
+# Your data, results and the list of uploaded copies stay on this computer
+data/
+output/
+.uploads.json
